@@ -1,0 +1,14 @@
+/home/mateus/Área de Trabalho/LB2024/AP1LP/bin/Debug/net8.0/AP1LP
+/home/mateus/Área de Trabalho/LB2024/AP1LP/bin/Debug/net8.0/AP1LP.deps.json
+/home/mateus/Área de Trabalho/LB2024/AP1LP/bin/Debug/net8.0/AP1LP.runtimeconfig.json
+/home/mateus/Área de Trabalho/LB2024/AP1LP/bin/Debug/net8.0/AP1LP.dll
+/home/mateus/Área de Trabalho/LB2024/AP1LP/bin/Debug/net8.0/AP1LP.pdb
+/home/mateus/Área de Trabalho/LB2024/AP1LP/obj/Debug/net8.0/AP1LP.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Área de Trabalho/LB2024/AP1LP/obj/Debug/net8.0/AP1LP.AssemblyInfoInputs.cache
+/home/mateus/Área de Trabalho/LB2024/AP1LP/obj/Debug/net8.0/AP1LP.AssemblyInfo.cs
+/home/mateus/Área de Trabalho/LB2024/AP1LP/obj/Debug/net8.0/AP1LP.csproj.CoreCompileInputs.cache
+/home/mateus/Área de Trabalho/LB2024/AP1LP/obj/Debug/net8.0/AP1LP.dll
+/home/mateus/Área de Trabalho/LB2024/AP1LP/obj/Debug/net8.0/refint/AP1LP.dll
+/home/mateus/Área de Trabalho/LB2024/AP1LP/obj/Debug/net8.0/AP1LP.pdb
+/home/mateus/Área de Trabalho/LB2024/AP1LP/obj/Debug/net8.0/AP1LP.genruntimeconfig.cache
+/home/mateus/Área de Trabalho/LB2024/AP1LP/obj/Debug/net8.0/ref/AP1LP.dll
